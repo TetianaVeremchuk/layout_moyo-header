@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA;;;;;;AAQA","sources":["src/reset.css"],"sourcesContent":["html {\n  box-sizing: initial;\n}\n\n*,\n*::after,\n*::before {\n  box-sizing: inherit;\n  margin: 0;\n  padding: 0;\n}\n\nul {\n  list-style-type: none;\n}\n"],"names":[],"version":3,"file":"index.497dfdab.css.map","sourceRoot":"/__parcel_source_root/"}
